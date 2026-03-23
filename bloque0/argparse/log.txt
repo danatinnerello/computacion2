@@ -1,0 +1,7 @@
+Info: inicio del sistema
+Error de conexión
+Todo ok
+Error de timeout
+DEBUG mensaje
+ERROR SOBREHUMANO
+error de sintaxis
