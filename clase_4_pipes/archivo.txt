@@ -1,0 +1,18 @@
+total 28
+drwxrwxrwx 1 danat danat  512 Apr 21 15:12 .
+drwxrwxrwx 1 danat danat  512 Apr 21 11:46 ..
+-rwxrwxrwx 1 danat danat    0 Apr 21 15:12 archivo.txt
+-rwxrwxrwx 1 danat danat 1375 Apr 21 15:00 bidireccional.py
+-rwxrwxrwx 1 danat danat  944 Apr 21 15:02 conectar_comando.py
+-rwxrwxrwx 1 danat danat  976 Apr 21 14:31 explorar_fds.py
+-rwxrwxrwx 1 danat danat 2272 Apr 21 15:10 mini_shell.py
+-rwxrwxrwx 1 danat danat  367 Apr 21 13:27 pipe.py
+-rwxrwxrwx 1 danat danat 1151 Apr 21 14:49 pipe_fork.py
+-rwxrwxrwx 1 danat danat  644 Apr 21 14:35 redireccion.py
+-rwxrwxrwx 1 danat danat  395 Apr 21 14:38 separar_salidas.py
+-rwxrwxrwx 1 danat danat   68 Apr 21 14:43 solo_stderr.txt
+-rwxrwxrwx 1 danat danat   73 Apr 21 14:44 solo_stdout.txt
+-rwxrwxrwx 1 danat danat   68 Apr 21 14:45 stderr.txt
+-rwxrwxrwx 1 danat danat   73 Apr 21 14:45 stdout.txt
+-rwxrwxrwx 1 danat danat  141 Apr 21 14:46 todo.txt
+-rwxrwxrwx 1 danat danat 1691 Apr 21 15:08 tres_comandos.py
