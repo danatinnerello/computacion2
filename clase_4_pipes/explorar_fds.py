@@ -17,6 +17,8 @@ def listar_fds():
 print("=== Estado inicial ===")
 listar_fds()
 
+input()
+
 print("\n=== Después de abrir un archivo ===")
 f = open("/tmp/test_fd.txt", "w")
 print(f"Archivo abierto con fd {f.fileno()}")
@@ -26,6 +28,8 @@ print("\n=== Después de abrir otro ===")
 f2 = open("/etc/passwd", "r")
 print(f"Segundo archivo con fd {f2.fileno()}")
 listar_fds()
+
+input ()
 
 print("\n=== Después de cerrar el primero ===")
 f.close()

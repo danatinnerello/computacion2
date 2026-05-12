@@ -17,3 +17,4 @@ with open("/tmp/mmap_test.txt", "rb") as f:
         print(f"Error al escribir: {e}")
 
     mm.close()
+    
